@@ -1,5 +1,8 @@
 # L3G4200D gyroscope driver (for Raspberry Pi)
 
+## Warning
+This is work in progress and is *not usable* in its current state.
+
 ## Building
 
 * Set `KERNEL_SRC` to point to kernel source directory
